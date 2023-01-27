@@ -1,0 +1,145 @@
+{
+	"stickers": [
+		{ // sticker 1 start
+			"identifier": 1,
+			"name": "Alchemy of Souls Animated",
+			"tags": "drama, new",
+			"category": "drama, new",
+			"banner_image" : "banner.png",
+			"favorite" : true,
+			"cover_image": "cover.png",
+			"sticker_data": [
+				{ //sticker_data start
+					"android_play_store_link":"",
+					"ios_app_store_link":"",
+					"sticker_packs": 
+										[{ //sticker_packs start
+											  "identifier": "1",
+											  "name": "RunningMan Pack 1",
+											  "publisher": "artmosphere©",
+											  "tray_image_file": "961.png",
+											  "image_data_version":"1",
+											  "avoid_cache":false,
+											  "publisher_email":"antycorruption92@gmail.com",
+											  "publisher_website": "",
+											  "privacy_policy_website": "",
+											  "license_agreement_website": "",
+										    "animated_sticker_pack": true,
+											  "stickers": [
+												{
+												  "image_file": "1.webp",
+												  "emojis": ["☕","🙂"]
+												},
+												{
+												  "image_file": "2.webp",
+												  "emojis": ["😄","😀"]
+												},
+												{
+												  "image_file": "3.webp",
+												  "emojis": ["😆","😂"]
+												},
+												{
+												  "image_file": "4.webp",
+												  "emojis": ["😩","😰"]
+												},
+												{
+												  "image_file": "5.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "6.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "7.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "8.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "9.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "10.webp",
+												  "emojis": ["😭","💧"]
+												}]
+											}] //sticker_packs end
+				}] //sticker_data end
+
+		}, // stickers 1 end
+		{ // sticker 2 start
+			"identifier": 2,
+			"name": "Jungkook",
+			"tags": "kpop, new",
+			"category": "kpop, new",
+			"banner_image" : "banner.png",
+			"favorite" : true,
+			"cover_image": "cover.png",
+			"sticker_data": [
+				{ // sticker data start
+					"android_play_store_link":"",
+					"ios_app_store_link":"",
+					"sticker_packs": 
+										[{ //sticker_packs start
+											  "identifier": "1",
+											  "name": "Jungkook Pack 1",
+											  "publisher": "artmosphere©",
+											  "tray_image_file": "961.png",
+											  "image_data_version":"1",
+											  "avoid_cache":false,
+											  "publisher_email":"antycorruption92@gmail.com",
+											  "publisher_website": "",
+											  "privacy_policy_website": "",
+											  "license_agreement_website": "",
+										    "animated_sticker_pack": true,
+											  "stickers": [
+												{
+												  "image_file": "1.webp",
+												  "emojis": ["☕","🙂"]
+												},
+												{
+												  "image_file": "2.webp",
+												  "emojis": ["😄","😀"]
+												},
+												{
+												  "image_file": "3.webp",
+												  "emojis": ["😆","😂"]
+												},
+												{
+												  "image_file": "4.webp",
+												  "emojis": ["😩","😰"]
+												},
+												{
+												  "image_file": "5.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "6.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "7.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "8.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "9.webp",
+												  "emojis": ["😭","💧"]
+												},
+												{
+												  "image_file": "10.webp",
+												  "emojis": ["😭","💧"]
+												}]
+											}] //sticker_packs end
+
+				}] //sticker data end
+
+		} // sticker 2 end
+	]
+}
