@@ -4,7 +4,7 @@
   "sticker_packs": [
 	{
 	  "identifier": "1",
-	  "name": "RunningMan Edited from site Pack 1",
+	  "name": "RunningMan test from asset json 1",
 	  "publisher": "artmosphere©",
 	  "tray_image_file": "961.png",
 	  "image_data_version":"1",
@@ -30,6 +30,250 @@
 		{
 		  "image_file": "4.webp",
 		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	  ]
+	},
+	{
+	  "identifier": "2",
+	  "name": "RunningMan Pack 2",
+	  "publisher": "artmosphere©",
+	  "tray_image_file": "962.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"antycorruption92@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	  ]
+	},
+	{
+	  "identifier": "3",
+	  "name": "Test",
+	  "publisher": "artmosphere©",
+	  "tray_image_file": "963.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"antycorruption92@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	  ]
+	},
+	{
+	  "identifier": "4",
+	  "name": "RunningMan Pack 4",
+	  "publisher": "artmosphere©",
+	  "tray_image_file": "964.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"antycorruption92@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	   ]
+	},
+	{
+	  "identifier": "5",
+	  "name": "RunningMan Pack 5",
+	  "publisher": "artmosphere©",
+	  "tray_image_file": "965.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"antycorruption92@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
 		}
 	  ]
 	}
