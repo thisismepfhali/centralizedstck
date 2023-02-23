@@ -1,0 +1,40 @@
+{
+	"stickers": [
+		{ // sticker 1 start
+			"identifier": 1,
+			"name": "BT21 WASticker",
+			"tags": "drama, new",
+			"category": "drama, new",
+			"banner_image" : "1_banner.png",
+			"favorite" : true,
+			"icon_image": "1_icon.png",
+		}, // stickers 1 end
+		{
+			"identifier": 2,
+			"name": "True Beauty",
+			"tags": "kpop, new",
+			"category": "kpop, new",
+			"banner_image" : "2_banner.png",
+			"favorite" : true,
+			"icon_image": "2_icon.png"
+		},
+		{
+			"identifier": 3,
+			"name": "V BTS",
+			"tags": "kpop, new",
+			"category": "kpop, new",
+			"banner_image" : "3_banner.png",
+			"favorite" : true,
+			"icon_image": "3_icon.png"
+		},
+		{
+			"identifier": 4,
+			"name": "Rose BlackPink",
+			"tags": "kpop, new",
+			"category": "kpop, new",
+			"banner_image" : "4_banner.png",
+			"favorite" : true,
+			"icon_image": "4_icon.png"
+		}
+	]
+}
