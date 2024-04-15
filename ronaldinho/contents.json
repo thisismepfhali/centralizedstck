@@ -1,0 +1,281 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+	{
+	  "identifier": "1",
+	  "name": "Ronaldinho Pack 1",
+	  "publisher": "sololeveling©",
+	  "tray_image_file": "961.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"sololeveling268@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	  ]
+	},
+	{
+	  "identifier": "2",
+	  "name": "Ronaldinho Pack 2",
+	  "publisher": "sololeveling©",
+	  "tray_image_file": "962.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"sololeveling268@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	  ]
+	},
+	{
+	  "identifier": "3",
+	  "name": "Ronaldinho Pack 3",
+	  "publisher": "sololeveling©",
+	  "tray_image_file": "963.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"sololeveling268@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	  ]
+	},
+	{
+	  "identifier": "4",
+	  "name": "Ronaldinho Pack 4",
+	  "publisher": "sololeveling©",
+	  "tray_image_file": "964.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"sololeveling268@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	   ]
+	},
+	{
+	  "identifier": "5",
+	  "name": "Ronaldinho Pack 5",
+	  "publisher": "sololeveling©",
+	  "tray_image_file": "965.png",
+	  "image_data_version":"1",
+	  "avoid_cache":false,
+	  "publisher_email":"sololeveling268@gmail.com",
+	  "publisher_website": "",
+	  "privacy_policy_website": "",
+	  "license_agreement_website": "",
+      "animated_sticker_pack": true,
+	  "stickers": [
+		{
+		  "image_file": "1.webp",
+		  "emojis": ["☕","🙂"]
+		},
+		{
+		  "image_file": "2.webp",
+		  "emojis": ["😄","😀"]
+		},
+		{
+		  "image_file": "3.webp",
+		  "emojis": ["😆","😂"]
+		},
+		{
+		  "image_file": "4.webp",
+		  "emojis": ["😩","😰"]
+		},
+		{
+		  "image_file": "5.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "6.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "7.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "8.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "9.webp",
+		  "emojis": ["😭","💧"]
+		},
+		{
+		  "image_file": "10.webp",
+		  "emojis": ["😭","💧"]
+		}
+	  ]
+	}
+  ]
+}
