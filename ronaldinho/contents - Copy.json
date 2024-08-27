@@ -1,26 +1,26 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.gg.stickerpack",
   "sticker_packs": [
     {
       "identifier": "1",
       "name": "Ronaldinho 1",
       "publisher": "Sololev",
-      "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/961.png",
-      "publisher_email":"viztushar@gmail.com",
+      "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/961.png",
+      "publisher_email":"gg@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/1.webp",
+          "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/1.webp",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_02_thub.png",
+          "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/2.webp",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_03_thub.png",
+          "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/3.webp",
           "emojis": ["ðŸ™‚"]
         }
       ]
@@ -29,8 +29,8 @@
       "identifier": "2",
       "name": "Ronaldinho 2",
       "publisher": "Sololev",
-      "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/2/962.png",
-      "publisher_email":"viztushar@gmail.com",
+      "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/961.png",
+      "publisher_email":"gg@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
