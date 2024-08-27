@@ -1,99 +1,53 @@
 {
-  "android_play_store_link": "",
-  "ios_app_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
-	{
-	  "identifier": "1",
-	  "name": "Ronaldinho Pack 1",
-	  "publisher": "sololeveling©",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/961.png",
-	  "image_data_version":"1",
-	  "avoid_cache":false,
-	  "publisher_email":"sololeveling268@gmail.com",
-	  "publisher_website": "",
-	  "privacy_policy_website": "",
-	  "license_agreement_website": "",
-      "animated_sticker_pack": true,
-	  "stickers": [
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/1.webp",
-		  "emojis": ["☕","🙂"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/2.webp",
-		  "emojis": ["😄","😀"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/3.webp",
-		  "emojis": ["😆","😂"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/4.webp",
-		  "emojis": ["😩","😰"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/5.webp",
-		  "emojis": ["😭","💧"]
-		}
-	  ]
-	},
-	{
-	  "identifier": "2",
-	  "name": "Ronaldinho Pack 2",
-	  "publisher": "sololeveling©",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/2/962.png",
-	  "image_data_version":"1",
-	  "avoid_cache":false,
-	  "publisher_email":"sololeveling268@gmail.com",
-	  "publisher_website": "",
-	  "privacy_policy_website": "",
-	  "license_agreement_website": "",
-      "animated_sticker_pack": true,
-	  "stickers": [
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/2/1.webp",
-		  "emojis": ["☕","🙂"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/2/2.webp",
-		  "emojis": ["😄","😀"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/2/3.webp",
-		  "emojis": ["😆","😂"]
-		}
-	  ]
-	},
-	{
-	  "identifier": "3",
-	  "name": "Ronaldinho Pack 3",
-	  "publisher": "sololeveling©",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/3/963.png",
-	  "image_data_version":"1",
-	  "avoid_cache":false,
-	  "publisher_email":"sololeveling268@gmail.com",
-	  "publisher_website": "",
-	  "privacy_policy_website": "",
-	  "license_agreement_website": "",
-      "animated_sticker_pack": true,
-	  "stickers": [
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/3/1.webp",
-		  "emojis": ["☕","🙂"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/3/2.webp",
-		  "emojis": ["😄","😀"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/3/3.webp",
-		  "emojis": ["😆","😂"]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/3/4.webp",
-		  "emojis": ["😩","😰"]
-		}
-	  ]
-	}
+    {
+      "identifier": "1",
+      "name": "Ronaldinho 1",
+      "publisher": "Sololev",
+      "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/961.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/1/1.webp",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_02_thub.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_03_thub.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Ronaldinho 2",
+      "publisher": "Sololev",
+      "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ronaldinho/2/962.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/10.webp",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_06_thub.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    }
   ]
 }
