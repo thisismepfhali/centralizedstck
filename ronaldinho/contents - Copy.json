@@ -3,28 +3,29 @@
   "sticker_packs": [
 	{
 	  "identifier": "1",
-	  "name": "Ronaldinho 1",
+	  "name": "BYS NEW",
 	  "publisher": "Sololev",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/961.png",
+	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/961.png",
 	  "publisher_email": "gg@gmail.com",
 	  "publisher_website": "",
 	  "privacy_policy_website": "",
 	  "license_agreement_website": "",
+	  "animated_sticker_pack": true,
 	  "stickers": [
 		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/1.webp",
+		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/1.webp",
 		  "emojis": [
 			"ðŸ™‚"
 		  ]
 		},
 		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/2.webp",
+		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/2.webp",
 		  "emojis": [
 			"ðŸ™‚"
 		  ]
 		},
 		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/3.webp",
+		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/2.webp",
 		  "emojis": [
 			"ðŸ™‚"
 		  ]
