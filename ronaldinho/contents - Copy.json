@@ -78,36 +78,6 @@
 		  ]
 		}
 	  ]
-	},
-	{
-	  "identifier": "4",
-	  "name": "BYS 4",
-	  "publisher": "Sololev",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/961.png",
-	  "publisher_email": "gg@gmail.com",
-	  "publisher_website": "",
-	  "privacy_policy_website": "",
-	  "license_agreement_website": "",
-	  "stickers": [
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/1.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/2.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/3.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		}
-	  ]
 	}
   ]
 }
