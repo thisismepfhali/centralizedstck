@@ -1,104 +1,307 @@
 {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.gg.stickerpack",
   "sticker_packs": [
-	{
-	  "identifier": "1",
-	  "name": "BYS NEW",
-	  "publisher": "Sololev",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/961.png",
-	  "publisher_email": "gg@gmail.com",
-	  "publisher_website": "",
-	  "privacy_policy_website": "",
-	  "license_agreement_website": "",
-	  "animated_sticker_pack": true,
-	  "stickers": [
 		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/1.webp",
-		  "emojis": [
-			"☕","🙂"
+		  "identifier": "1",
+		  "name": "Byeon Woo Seok gif",
+		  "publisher": "Sololev",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/tray1.png",
+		  "publisher_email": "gg@gmail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/1.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/2.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/3.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/4.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/5.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
 		  ]
 		},
 		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/2.webp",
-		  "emojis": [
-			"☕","🙂"
+		  "identifier": "2",
+		  "name": "Byeon Woo Seok gif",
+		  "publisher": "Sololev",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/tray2.png",
+		  "publisher_email": "gg@gmail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/6.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/7.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/8.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/9.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/10.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
 		  ]
 		},
 		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bys/3.webp",
-		  "emojis": [
-			"☕","🙂"
+		  "identifier": "3",
+		  "name": "Byeon Woo Seok gif",
+		  "publisher": "Sololev",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/tray3.png",
+		  "publisher_email": "gg@gmail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "4",
+		  "name": "Jungkook gif",
+		  "publisher": "Sololev",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/tray3.png",
+		  "publisher_email": "gg@gmail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/1.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/2.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/3.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/4.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/5.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "5",
+		  "name": "Jungkook gif",
+		  "publisher": "Sololev",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/tray2.png",
+		  "publisher_email": "gg@gmail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/6.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/7.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/8.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/9.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/10.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "6",
+		  "name": "Jungkook gif",
+		  "publisher": "Sololev",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/tray3.png",
+		  "publisher_email": "gg@gmail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "7",
+		  "name": "Jungkook gif",
+		  "publisher": "Sololev",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/tray4.png",
+		  "publisher_email": "gg@gmail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkookgif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
 		  ]
 		}
-	  ]
-	},
-	{
-	  "identifier": "2",
-	  "name": "Jungkook",
-	  "publisher": "Sololev",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/961.png",
-	  "publisher_email": "gg@gmail.com",
-	  "publisher_website": "",
-	  "privacy_policy_website": "",
-	  "license_agreement_website": "",
-	  "animated_sticker_pack": false,
-	  "stickers": [
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/1.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/2.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/3.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/4.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		}
-	  ]
-	},
-	{
-	  "identifier": "3",
-	  "name": "Jungkook",
-	  "publisher": "Sololev",
-	  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/961.png",
-	  "publisher_email": "gg@gmail.com",
-	  "publisher_website": "",
-	  "privacy_policy_website": "",
-	  "license_agreement_website": "",
-	  "animated_sticker_pack": false,
-	  "stickers": [
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/5.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/6.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		},
-		{
-		  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/2/1/7.webp",
-		  "emojis": [
-			"☕","🙂"
-		  ]
-		}
-	  ]
-	
-}  ]
+	 
+	]
 }
