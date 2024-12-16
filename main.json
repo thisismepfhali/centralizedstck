@@ -14064,14 +14064,14 @@
 		},
 		{
 		  "identifier": "323",
-		  "name": "Doctor Romantic",
+		  "name": "Doctor Romantic gif",
 		  "publisher": "dalkomhae❤️",
 		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/doctorromanticgif/tray1.png",
 		  "publisher_email": "dalkomhae❤@mail.com",
 		  "publisher_website": "",
 		  "privacy_policy_website": "",
 		  "license_agreement_website": "",
-		  "animated_sticker_pack": false,
+		  "animated_sticker_pack": true,
 		  "stickers": [
 			{
 			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/doctorromanticgif/1.webp",
@@ -15440,14 +15440,14 @@
 		},
 		{
 		  "identifier": "355",
-		  "name": "Doctor Romantic",
+		  "name": "Doctor Romantic gif",
 		  "publisher": "dalkomhae❤️",
 		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/doctorromanticgif/tray2.png",
 		  "publisher_email": "dalkomhae❤@mail.com",
 		  "publisher_website": "",
 		  "privacy_policy_website": "",
 		  "license_agreement_website": "",
-		  "animated_sticker_pack": false,
+		  "animated_sticker_pack": true,
 		  "stickers": [
 			{
 			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/doctorromanticgif/6.webp",
@@ -15566,7 +15566,1169 @@
 			  ]
 			}
 		  ]
+		},
+		{
+		  "identifier": "358",
+		  "name": "Jungkook",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": false,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "359",
+		  "name": "Jungkook",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": false,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jungkook/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "360",
+		  "name": "Byeon Woo Seok gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bysgif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "361",
+		  "name": "Lovely Runner gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "362",
+		  "name": "Lovely Runner gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lovelyrunnergif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "363",
+		  "name": "Cho Gue Sung gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "364",
+		  "name": "Cho Gue Sung gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/choguesunggif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "365",
+		  "name": "Felix gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "366",
+		  "name": "Felix gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/felixgif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "367",
+		  "name": "Han gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "368",
+		  "name": "Han gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/hangif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "369",
+		  "name": "I.N gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "370",
+		  "name": "I.N gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/ingif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "371",
+		  "name": "Lee Know gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "372",
+		  "name": "Lee Know gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/leeknowgif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "373",
+		  "name": "Bang Chan gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "374",
+		  "name": "Bang Chan gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/bangchangif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "375",
+		  "name": "Changbin gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "376",
+		  "name": "Changbin gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/changbingif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "377",
+		  "name": "Jennie gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "378",
+		  "name": "Jennie gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jenniegif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "379",
+		  "name": "Jisoo gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "380",
+		  "name": "Jisoo gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/jisoogif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "381",
+		  "name": "Lisa gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "382",
+		  "name": "Lisa gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/lisagif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "383",
+		  "name": "Rose gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/tray3.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/11.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/12.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/13.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/14.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/15.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
+		},
+		{
+		  "identifier": "384",
+		  "name": "Rose gif",
+		  "publisher": "dalkomhae❤️",
+		  "tray_image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/tray4.png",
+		  "publisher_email": "dalkomhae❤@mail.com",
+		  "publisher_website": "",
+		  "privacy_policy_website": "",
+		  "license_agreement_website": "",
+		  "animated_sticker_pack": true,
+		  "stickers": [
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/16.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/17.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/18.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/19.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			},
+			{
+			  "image_file": "https://raw.githubusercontent.com/thisismepfhali/centralizedstck/main/rosegif/20.webp",
+			  "emojis": [
+				"☕","🙂"
+			  ]
+			}
+		  ]
 		}
+
 
 	 
 	]
